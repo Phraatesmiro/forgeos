@@ -1,0 +1,11 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+python-dotenv==1.0.1
+supabase==2.5.1
+openai==1.30.0
+sympy==1.12
+numpy==1.26.4
+scipy==1.13.0
+pydantic==2.7.0
+pyyaml==6.0.1
+httpx==0.27.0
